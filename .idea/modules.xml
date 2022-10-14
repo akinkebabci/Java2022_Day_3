@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HomeWork_2/ClassesWidthAttribute/ClassesWidthAttribute.iml" filepath="$PROJECT_DIR$/HomeWork_2/ClassesWidthAttribute/ClassesWidthAttribute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork_1/HomeWork_1.iml" filepath="$PROJECT_DIR$/HomeWork_1/HomeWork_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork_2/HomeWork_2.iml" filepath="$PROJECT_DIR$/HomeWork_2/HomeWork_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork_3/HomeWork_3.iml" filepath="$PROJECT_DIR$/HomeWork_3/HomeWork_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java2022_Day_3.iml" filepath="$PROJECT_DIR$/.idea/Java2022_Day_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork_2/abstractClasses/abstractClasses.iml" filepath="$PROJECT_DIR$/HomeWork_2/abstractClasses/abstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork_2/abstractDemo/abstractDemo.iml" filepath="$PROJECT_DIR$/HomeWork_2/abstractDemo/abstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork_2/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/HomeWork_2/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork_2/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/HomeWork_2/inheritanceDemo/inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork_2/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/HomeWork_2/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork_2/interfacesDemo/interfacesDemo.iml" filepath="$PROJECT_DIR$/HomeWork_2/interfacesDemo/interfacesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork_2/methodOverloading/methodOverloading.iml" filepath="$PROJECT_DIR$/HomeWork_2/methodOverloading/methodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork_2/overriding/overriding.iml" filepath="$PROJECT_DIR$/HomeWork_2/overriding/overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork_2/polymorphismDemo/polymorphismDemo.iml" filepath="$PROJECT_DIR$/HomeWork_2/polymorphismDemo/polymorphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork_2/staticDemo/staticDemo.iml" filepath="$PROJECT_DIR$/HomeWork_2/staticDemo/staticDemo.iml" />
+    </modules>
+  </component>
+</project>
